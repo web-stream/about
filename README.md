@@ -4,6 +4,8 @@
 Internet jest ideą łaczenia treści w sposób zdecentralizowany.
 Coraz więcej treści jest pobieranych asynchronicznie dlatego nastąpił rozwój funkcji clouser.
 Strona www jest tworzona przez generator stron lub zespół ludzi, którzy korzystają z różnych usług,jak marketing, monitoring, itd
++ [principles](https://principles.webstream.dev/)
+
 
 ## Zapotrzebowanie
 
