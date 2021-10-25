@@ -1,17 +1,36 @@
 # [about.webstream.dev](https://about.webstream.dev)
 
 
-## Co to jest 
-Biblioteka bazująca na JS, bazująca na przeglądarce i działająca natywnie w przeglądarce
+Internet jest ideą łaczenia treści w sposób zdecentralizowany.
+Coraz więcej treści jest pobieranych asynchronicznie dlatego nastąpił rozwój funkcji clouser.
+Strona www jest tworzona przez generator stron lub zespół ludzi, którzy korzystają z różnych usług,jak marketing, monitoring, itd
+
+## Zapotrzebowanie
+
+Webstream odpowiada na potrzeby związane z budowaniem aplikacji w oparciu o treści i usługi dostępne do dystrybucji treści.
+Został stworzony jako część ekosystemu do prototypowania: 
+[wapka.pl - Roadmap of wapka project](https://roadmap.wapka.pl/)
+
+## Streamowanie
+
+Zgodnie ze specyfikacją strona www w przeglądarce może być stale przełdowywana w tle, tzn teoretycznie nigdy się nie skończy, dając możliwość ciągłeo streamowania danych, zmieniając interfejs, podłączając nowe usłgui w locie.
+
+Rezultat to brak potrzeby przełączania tabs.
+I pełna kontrola nad treścią nad stroną, zdarzeniami jakie mają tam miejsce w ustandaryzowany sposób.
 
 Więcej technicznych informacji w dokumentacji, samouczku, stronie www:
++ [WebStream](https://www.webstream.dev/)
 
-
-# [WebStream](https://www.webstream.dev/)
 Streaming application/interface directly on frontend, without building backend side
 is part of [wapka ecosystem](https://docs.wapka.pl/) to build Application based on PaaS infrastructure
 
+
+## Inne rozwiązania na rynku
+
+Obecnie jest do dyspozycji frameworki, jednak wymagają kompilowania, przygotowywania kodu przez programiastę
+
 ## Why?
+
 In Softreck we introduced interface/application streams (also known as app streams) to provide several applications with different versions that you might want to run in user space. This greatly simplified the layout of the content available in WebStream and offered the flexibility to adopt polyglot persistence and choose whichever database best suits your needs. 
 
 
@@ -26,6 +45,7 @@ Server rendering has had a number of developments over the last few years.
 
 
 ## More
+
 + [Hosted Projects - OpenJS Foundation](https://openjsf.org/projects/)
 
 + [Wapka, Softreck’s OpenSource Deployment Ecosystem - docs](https://docs.wapka.pl/)
