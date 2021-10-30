@@ -64,27 +64,8 @@ For contributors
 # microfrontend.org
 + [www.microfrontend.org](https://www.microfrontend.org/)
 
-## API foundation
 
-## abstraction and AI
-
-abstraction is depends context, so it can be good in some context, not ewerywhere, that's why I support personally Native Technologies, Microsoftsolutions are full of abstractions, but AI don't need it, so what is the future? AI or Microsoft?
-
-### for abstraction friends
-
-There is nothing wrong if abstraction is describing business logic for a human.
-We need it till AI is not used to create hypermodular application by itself.
-If AI is responsible for streaming application there si no more necessary to create abstraction.
-
-What AI need?
-native modular code written in native technologies.
-AI is build the businnes logic over personalisation based on BIG DATA
-It works such Black BOX with:
-+ input
-+ output
-+ config
-
-### TAGS:
+## TAGS:
 
 + NO CONTEXT
 + NO DEPENDENCY
